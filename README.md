@@ -15,7 +15,7 @@ Re-entrancy:  [https://hackernoon.com/hack-solidity-reentrancy-attack](https://h
 2. Total supply (amount of NFTs that were minted to that moment) can NOT exceed the `MAX_SUPPLY`.
 3. User can NOT exceed `MAX_PUBLIC_MINT` when minting from public. 
 4. $AVAX amount sent by the end-user must be equal to or higher than `PUBLIC_SALE_PRICE`. End-users can mint their NFTs through Kalao and/or SnowTrace (blockchain explorer of Avalanche’s C-chain)
-Note: For $N$ NFTs, you must send at least `PUBLIC_SALE_PRICE * $N$` amount of $AVAX.
+Note: For $N$ NFTs, you must send at least `PUBLIC_SALE_PRICE * N` amount of $AVAX.
 
 > Before sold-out royalty fee: %10
 After sold-out royalty fee: %5
@@ -36,7 +36,7 @@ Otter Society developer team, or any 3rd party, can NOT set the royalty fee high
 3. User can NOT exceed `MAX_WHITELIST_MINT` when minting from whitelist. 
 **Note**: Whitelisted users can both mint from whitelist & public within the same wallet.
 4. $AVAX amount sent by the end-user must be equal to or higher than `PUBLIC_SALE_PRICE`. End-users can mint their NFTs through Kalao and/or SnowTrace (blockchain explorer of Avalanche’s C-chain)
-Note: For $N$ NFTs, you must send at least `WHITELIST_SALE_PRICE * $N$` amount of $AVAX.
+Note: For $N$ NFTs, you must send at least `WHITELIST_SALE_PRICE * N` amount of $AVAX.
 
 ### Team Mint
 
