@@ -199,7 +199,7 @@ Tüm NFT’ler satıldıktan sonra telif geliri: %5
 > 
 
 ```solidity
-				/// Reveal Otter Society on sold-out.
+	/// Reveal Otter Society on sold-out.
         /// Reduce royalty fee to 5%
         if (totalSupply() == MAX_SUPPLY) {
             isRevealed = true;
