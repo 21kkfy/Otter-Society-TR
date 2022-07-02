@@ -209,6 +209,6 @@ Tüm NFT’ler satıldıktan sonra telif geliri: %5
         }
 ```
 
-*This documentation has been made & prepared by Otter Society Developer Team for public access and educational purposes. 
+**This documentation has been made & prepared by Otter Society Developer Team for public access and educational purposes.**
 
-This documentation accurately represents The Otter Society NFT Smart Contract that will be used to host The Otter Society NFT Collection.*
+**This documentation accurately represents The Otter Society NFT Smart Contract that will be used to host The Otter Society NFT Collection.**
