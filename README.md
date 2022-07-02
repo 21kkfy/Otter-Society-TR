@@ -195,6 +195,8 @@ Note: For $N$ NFTs, you must send at least `PUBLIC_SALE_PRICE * $N$` amount of $
 
 > Tüm NFT’ler satılmadan önce telif geliri: %10
 Tüm NFT’ler satıldıktan sonra telif geliri: %5
+
+
 **Not:**   Otter Society Yazılım Ekibi, ya da herhangi bir üçüncü partinin, telif hakkı gelirini kontratın herhangi bir hal ve/veya durumunda %20 üstüne çıkarması mümkün değildir.
 > 
 
